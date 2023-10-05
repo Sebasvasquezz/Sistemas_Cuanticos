@@ -9,7 +9,8 @@ En caso de no tenerlo lleve a cabo los siguientes pasos:
 1. Dirijase a la página https://www.python.org/downloads/
 2. De click en la opción de descarga
    ![image](https://github.com/alexandrac1420/CNYT/assets/138069735/03d02dfb-a346-4bc8-8e9c-066816e2f80e)
-3. Ejecute el programa que se descarga automáticamente.
+
+4. Ejecute el programa que se descarga automáticamente.
 4. Complete la instalacion.
 
 ## Operaciones Incluidas
@@ -19,7 +20,10 @@ La librería consta de las siguientes operaciones para vectores y matrices compl
 1. **Probabilidad de estar en una posisición dada dentro de un vector:** `probability_pos(vector,position)`
 2. **Normalizar un vector:** `normalize_vector(vector)`
 3. **Probabilidad de transitar de un vector a otro:** `probability_of_transit(vector_a,vector_b)`
-
+4. **Amplitud de transito de un vector a otro:** `amplitude_of_transit(vector_a,vector_b)`
+5. **Media de los valores obtenidos:** `media_obervable_ket(matrix,vector)`
+6. **Operador delta:** `delta_operator(matrix,vector)`
+7. **Varianza de los valores obtenidos:** `var_observable_ket(matrix,vector)`
 ## Uso
 Para hacer uso del material deben llevar a cabo los siguientes pasos:
 1. Abra la carpeta en donde desea guardar la librería.

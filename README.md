@@ -24,6 +24,8 @@ La librería consta de las siguientes operaciones para vectores y matrices compl
 5. **Media de los valores obtenidos:** `media_obervable_ket(matrix,vector)`
 6. **Operador delta:** `delta_operator(matrix,vector)`
 7. **Varianza de los valores obtenidos:** `var_observable_ket(matrix,vector)`
+8. **Valores propios y la probabilidad de transitar a alguno de sus vectores propios:** `eigenvalues_and_probability_of_transition_to_eigenvectors(estate, observable)`
+9. **Calculo del estado final a partir de un estado inicial y una serie de matrices dada como una lista de matrices:** `dinamic_sistem(estate,matrix):`
 ## Uso
 Para hacer uso del material deben llevar a cabo los siguientes pasos:
 1. Abra la carpeta en donde desea guardar la librería.

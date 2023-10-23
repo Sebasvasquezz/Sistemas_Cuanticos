@@ -212,7 +212,7 @@ if __name__ == '__main__':
                                      [complex(8, 4), complex(-2, 5)]],
                                     [complex(-1, 1), complex(2, 3)]))
 
-    print('Ejemplo producto iterno de vectores complejos: ', internal_product([complex(1, 0), complex(2, 3),complex(0,6)], [complex(0, 0), complex(0, 1),complex(2,4)]))
+    print('Ejemplo producto interno de vectores complejos: ', internal_product([complex(math.sqrt(2), math.sqrt(2)), complex(math.sqrt(2), math.sqrt(2))], [complex(math.sqrt(2), 0), complex(-math.sqrt(2), 0)]))
 
     print('Ejemplo norma de un vector complejo: ', norm_vector([complex(4,3),complex(6,-4),complex(12,-7),complex(0,-13)]))
 

@@ -26,6 +26,14 @@ La librería consta de las siguientes operaciones para vectores y matrices compl
 7. **Varianza de los valores obtenidos:** `var_observable_ket(matrix,vector)`
 8. **Valores propios y la probabilidad de transitar a alguno de sus vectores propios:** `eigenvalues_and_probability_of_transition_to_eigenvectors(estate, observable)`
 9. **Calculo del estado final a partir de un estado inicial y una serie de matrices dada como una lista de matrices:** `dinamic_sistem(estate,matrix):`
+    
+## Problemas
+Se incluyen los problemas 4.3.1, 4.3.2, 4.4.1 y 4.4.2 como ejemplos desarrollados en el codigo.
+
+**Ejercicios 4.5.2 y 4.5.3**
+![WhatsApp Image 2023-10-23 at 3 38 25 PM](https://github.com/Sebasvasquezz/Sistemas_Cuanticos/assets/142455613/8c832a06-610b-4299-bee2-9da1f9346982)
+
+
 ## Uso
 Para hacer uso del material deben llevar a cabo los siguientes pasos:
 1. Abra la carpeta en donde desea guardar la librería.
